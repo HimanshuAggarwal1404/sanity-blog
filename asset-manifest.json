@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sanity-blog/static/css/main.5063ddd0.css",
+    "main.js": "/sanity-blog/static/js/main.92c9fa11.js",
+    "static/js/726.fdc25748.chunk.js": "/sanity-blog/static/js/726.fdc25748.chunk.js",
+    "static/js/787.f587e8d5.chunk.js": "/sanity-blog/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/sanity-blog/index.html",
+    "main.5063ddd0.css.map": "/sanity-blog/static/css/main.5063ddd0.css.map",
+    "main.92c9fa11.js.map": "/sanity-blog/static/js/main.92c9fa11.js.map",
+    "726.fdc25748.chunk.js.map": "/sanity-blog/static/js/726.fdc25748.chunk.js.map",
+    "787.f587e8d5.chunk.js.map": "/sanity-blog/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5063ddd0.css",
+    "static/js/main.92c9fa11.js"
+  ]
+}
